@@ -81,8 +81,8 @@ footer__menu__settings:
 # Social Links
 social:
 - {icon: "ion-logo-youtube", color: "#FF5241", name: Youtube, link: "https://youtube.com/channel/UC9aF-M5bgk731CCmX6lbbGw"}
-- {icon: "ion-at", color: "#9A3FF2", name: Email, link: "mailto:support@sobkiso.xyz"}
-- {icon: "ion-paper-plane", color: "#1FAAFF", name: Telegram, link: "https://t.me/cyberassemble"}
+- {icon: "ion-logo-at", color: "#9A3FF2", name: Email, link: "mailto:support@sobkiso.xyz"}
+- {icon: "ion-logo-paper-plane", color: "#1FAAFF", name: Telegram, link: "https://t.me/cyberassemble"}
 - {icon: "ion-logo-tux", color: "#AF2254", name: Darkweb, link: "http://km4i76nosafs73n2jyrj5qumgzl6l3qryyds2dzv4a7j6xzecvbsceid.onion"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
